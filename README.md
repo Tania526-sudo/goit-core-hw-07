@@ -1,4 +1,4 @@
-# goit-core-hw-07 — CLI Assistant (Address Book)
+# CLI Assistant (Address Book)
 
 A command-line assistant to manage an address book: contacts, phone numbers, and birthdays.  
 Built with OOP (Field / Name / Phone / Birthday / Record / AddressBook), input validation, and
@@ -33,8 +33,6 @@ birthdays to the next working day (Monday).
 - Upcoming birthdays for the next 7 days (weekends shift to Monday)
 - Friendly error messages via an `input_error` decorator
 - Human-friendly printing for both `Record` and `AddressBook`
-
----
 ---
 
 ## Installation
